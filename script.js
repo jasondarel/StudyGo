@@ -1,5 +1,5 @@
 function redirectToHomePage() {
-  window.location.href = 'home.html';
+  window.location.href = 'index.html';
 }
 
 const sign_in_btn = document.querySelector("#sign-in-btn");
